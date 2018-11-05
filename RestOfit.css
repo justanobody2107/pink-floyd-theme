@@ -1,0 +1,44 @@
+.container-2OU7Cz, .theme-dark .title-qAcLxz, .theme-dark .chat form, .channels-3g2vYe   {
+    background-color: transparent !important;
+}
+
+.nameDefaultText-QoumjC, .nameDefaultVoice-1swZoh, .nameLockedText-2fGz07, .nameLockedVoice-wNOMNa {
+    color: rgba(119, 119, 119, 1); /This changes the color of none selected, none hovered channels/
+}
+.nameSelectedText-32NDX5, .nameSelectedVoice-XpjYTw {
+    color: rgba(255, 33, 0, 1); /This changes the color of selected channels/
+}
+.nameMutedText-1YDcP-, .nameMutedVoice-26k4cP {
+    color:rgba(46, 0, 109, 1); /This changes the color of muted channels/
+}
+.nameHoveredText-2FFqiz {
+    color: rgba(54, 54, 54, 1); /This changes the color of hovered text channels/
+}
+.nameHoveredVoice-TIoHRJ {
+    color: rgba(54, 54, 54, 1); /This changes the color of hovered voice channels/
+}
+.nameLockedText-2fGz07 {
+    color: rgba(160, 160, 160, 1); /This changes the color of locked text channels/
+}
+.nameLockedVoice-wNOMNa {
+    color: rgba(160, 160, 160, 1); /This changes the color of locked voice channels*/
+}
+/Catagories/
+.nameDefault-Lnjrwm {
+    color: rgba(182, 51, 0, 1); /This changes the color of channel catagories/
+}
+.nameCollapsed-3_ChMu {
+    color: rgba(202, 0, 0, 1); /This changes the color of collapsed catagories/
+}
+.iconDefault-xzclSQ {
+    color: rgba(107, 255, 0, 1); /This changes the color of the arrow on catagories/
+}
+.iconCollapsed-1INdMX {
+    color: rgba(0, 0, 0, 1); /This changes the color of the arrow on collapsed catagories/
+}
+.iconMuted-Hb4ttQ {
+    color: rgba(6, 6, 6, 1); /This changes the color of the arrow on muted catagories/
+}
+ .nameMuted-1n0LSj {
+    color: rgba(129, 35, 52, 1); /This changes the color of  muted catagories/
+}
