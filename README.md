@@ -2,5 +2,5 @@
 Pink Floyd Dark Side Of The Moon Theme Repository
 
 ### Contents:
-Theme CSS
-Modified BGRM CSS
+1. Theme CSS
+2. Modified BGRM CSS
