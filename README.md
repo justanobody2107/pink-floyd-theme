@@ -2,6 +2,6 @@
 Pink Floyd Dark Side Of The Moon Theme Repository
 
 ### Contents:
-1. [Theme CSS](https://raw.githubusercontent.com/justanobody2107/pink-floyd-theme/master/PinkFloyd.theme.css)
-2. [Modified BGRM CSS](https://raw.githubusercontent.com/justanobody2107/pink-floyd-theme/master/PinkFloydBGRM.css)
-3. [Rainbow Channels CSS](https://raw.githubusercontent.com/justanobody2107/pink-floyd-theme/master/rainbowchannels.css)
+1. [Theme CSS](https://justanobody2107.github.io/pink-floyd-theme/PinkFloyd.theme.css)
+2. [Modified BGRM CSS](https://justanobody2107.github.io/pink-floyd-theme/PinkFloydBGRM.css)
+3. [Rainbow Channels CSS](https://justanobody2107.github.io/pink-floyd-theme/rainbowchannels.css)
