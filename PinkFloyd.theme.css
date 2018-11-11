@@ -1,6 +1,7 @@
-//META{"name":"Pink Floyd Transparent","description":"Pink Floyd-The Dark Side Of The Moon theme with bgrm.css","author":"JustANobody","version":"1.0"}*//{}
+//META{"name":"Pink Floyd Transparent","description":"Pink Floyd-The Dark Side Of The Moon theme with bgrm.css","author":"JustANobody","version":"1.2","website":"https://justanobody2107.github.io/pink-floyd-theme/","source":"https://github.com/justanobody2107/pink-floyd-theme"}*//{}
 
-@import url('https://qwerasd205.github.io/bgrm.css');
+@import url('https://justanobody2107.github.io/pink-floyd-theme/PinkFloydBGRM.css');
+@import url('https://justanobody2107.github.io/pink-floyd-theme/rainbowchannels.css');
 
 :root {
     --bgrm-overlay: rgba(20, 20, 20, 0.3);
@@ -23,15 +24,4 @@
 .app .membersGroup-v9BXpm,
 .app #bd-settings-sidebar .ui-tab-bar-header,
 .app #bd-settingspane-container .ui-switch-item .style-description,
-.side-8zPYf6 .header-2RyJ0Y, .side-8zPYf6 .item-PXvHYJ,
-.app .description-3_Ncsb, .app .labelDescriptor-1PqHgD {
-    color: #009999;   
-}
-
-#bd-settings-sidebar div {
-    color: #009999 !important;
-}
-
-.nameMutedText-3Vj4bM, .nameMutedVoice-3oxyQZ {
-    color: #006666;
-}
+.side-8zPYf6 .header-2RyJ0Y, .side-8zPYf6 .item-PXvHYJ
