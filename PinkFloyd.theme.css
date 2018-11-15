@@ -11,10 +11,6 @@
     background: url('https://i.imgur.com/sdpLV3N.jpg') center/cover; /* Set background image */
 }
 
-.app {
-    background: rgba(26, 26, 26, 0.6); /* Put a layer over it so it isn't too bright */
-}
-
 /* ---- */
 
 /* vv Make text that is too dark to read a bit brighter vv */
