@@ -2004,11 +2004,11 @@ svg[class=premiumHeaderIcon-bTc_nQ] path {
 }
 
 ::-webkit-input-placeholder,body:not([class*=hljs]):not(code):not([class*=ace_]) {
-    font-family: var(--customFont)!important
+    font-family: "Abaton ITC W05 Regular";!important
 }
 
 .ace_editor {
-    font: 17px/normal Monaco,Menlo,'Ubuntu Mono',Consolas,source-code-pro,monospace!important
+    font-family: "Abaton ITC W05 Regular";!important
 }
 
 .app {
